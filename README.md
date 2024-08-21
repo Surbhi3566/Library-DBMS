@@ -44,4 +44,3 @@ This project is licensed under the MIT License.
 
 ---
 
-This README section provides a clear and concise summary of your Library DBMS project, covering the essential aspects in a structured format.
