@@ -1,11 +1,9 @@
 # Library-DBMS
 
 
-Here's a suggested GitHub README section for your Library DBMS project:
-
 ---
 
-## Library Management System (DBMS Project)
+## Library Management System (Project)
 
 ### Overview
 This project involves the creation of a **Library Management System** using SQL. The system is designed to handle essential library operations, including book management, customer transactions, and employee data.
